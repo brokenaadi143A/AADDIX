@@ -32,9 +32,7 @@
   "commandUnload": [
     "backupdata.js",
     "jsontomongodb.js",
-    "jsontosqlite.js",
-    "cmd", 
-    "eval", 
+    "jsontosqlite.js", 
     "gpt", 
     "0000_talk(akira)"
   ] 
